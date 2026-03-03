@@ -1,5 +1,5 @@
 import Navbar from "./components/Navbar";
-import HeroSection from "./components/heroSection";
+import HeroSection from "./components/HeroSection";
 import Working from "./pages/Working";
 import Footer from "./components/Footer";
 import Community from "./pages/Community";
